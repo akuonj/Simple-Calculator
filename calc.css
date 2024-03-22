@@ -1,0 +1,59 @@
+
+html, body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.refresh{
+	background-color:darkred;
+	color:white;
+	width:30%;
+	height:7%;
+}
+
+.adi{
+	background-color:darkblue;
+	color:white;
+	width:30%;
+	height:7%;
+	color:none;
+	padding-left:10px;
+}
+
+/*.oman{
+	padding-top:0;
+	color:white;
+	width: inherit;
+    height: inherit;
+    margin: 0;
+}*/
+
+#num1{
+	width:30%;
+	height:5%;
+	background-color:blue;
+	color:orange;
+	padding-top:10px;
+}
+
+#num2{
+	width:30%;
+	height:5%;
+	background-color:blue;
+	color:orange;
+	padding-top:10px;
+}
+
+#ans{
+	width:30%;
+	height:5%;
+	background-color:blue;
+	color:orange;
+	padding-top:10px;
+}
+
+#fon{
+	font-size:20;
+}
